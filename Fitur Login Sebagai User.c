@@ -242,7 +242,3 @@ void checkout(UserOrder *order) {
     saveOrderToHistory(order);
 }
 
-int main (){
-
-	
-}
