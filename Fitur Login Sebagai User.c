@@ -241,3 +241,8 @@ void checkout(UserOrder *order) {
     order->orderCount = 0; 
     saveOrderToHistory(order);
 }
+
+int main (){
+
+	
+}
