@@ -1,0 +1,8 @@
+es teh manis,7000.00,25
+Jus Alpukat,12000.00,20
+Jus Mangga,15000.00,20
+Kopi Hitam,10000.00,20
+Cappuccino,18000.00,19
+Air Mineral,5000.00,30
+Lemon Tea,10000.00,30
+Es Kopi Susu,12000.00,24

@@ -1,0 +1,5 @@
+kentang,12000.00,25
+pisang bakar,23000.00,25
+roti bakar,25000.00,25
+tahu crispy,17000.00,24
+jamur crispy,19000.00,24
